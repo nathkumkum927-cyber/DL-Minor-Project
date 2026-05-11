@@ -26,6 +26,7 @@ NumPy
 Scikit-learn
 PyTorch
 Matplotlib
+
 ⚙️ Workflow
 Data Loading & Exploration
 Data Preprocessing
@@ -38,12 +39,16 @@ Performance Evaluation using:
 Loss Function
 R² Score
 Prediction Visualization
+
+
 🧠 Deep Learning Concepts Used
 Artificial Neural Networks (ANN)
 Forward Propagation
 Backpropagation
 Optimizers
 Regression using Neural Networks
+
+
 📊 Results
 
 The ANN model successfully learned patterns from the dataset and predicted power output with good accuracy using regression evaluation metrics.
